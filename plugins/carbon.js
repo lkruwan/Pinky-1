@@ -6,7 +6,7 @@ const MyPnky = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const Config = require('../config');
-const dd = "Made by WhatsAsena"
+const dd = "Made by Lusifar"
 
 const Language = require('../language');
 const Lang = Language.getString('log');
