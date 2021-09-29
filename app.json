@@ -41,6 +41,12 @@
             "required": true,
             "value": "false"
         },
+        "ANTIBAD": {
+            "description": "Activate Anti-Bad word for your groups.",
+            "required": true,
+            "value": "false"
+        
+        },
         "PM_BLOCK": {
             "description": "Link Engelleme Sistemi. Link Blocking System.",
             "required": true,
